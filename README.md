@@ -1,4 +1,4 @@
-📊 Customer Analytics & Classification Project
+## 📊 Customer Analytics & Classification Project
 🚀 Projektübersicht
 
 Dieses Projekt analysiert Kundenverhalten anhand von Einkommen und Ausgaben und entwickelt Machine-Learning-Modelle zur Vorhersage von Marketingreaktionen.
