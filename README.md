@@ -16,10 +16,7 @@ Ziel ist es, datenbasierte Entscheidungen im Marketing zu ermöglichen und Kunde
 ---
 
 ## 📊 Kundensegmente
-
-<p align="center">
-  <img src="images/Kundensegmente.png" width="600">
-</p>
+![Kundensegmente](./images/Kundensegmente.png)
 
 Die Visualisierung zeigt verschiedene Kundensegmente:
 
@@ -33,10 +30,7 @@ Die Visualisierung zeigt verschiedene Kundensegmente:
 ---
 
 ## 🧠 Methodik
-
-<p align="center">
-  <img src="images/ML_Klassifikation.png" width="600">
-</p>
+![Methodik](./images/ML_Klassifikation.png)
 
 Zwei Modelle wurden entwickelt:
 
@@ -57,10 +51,7 @@ Zwei Modelle wurden entwickelt:
 ---
 
 ## 📈 Modellbewertung
-
-<p align="center">
-  <img src="images/ML_Roc-kurve.png" width="600">
-</p>
+![ROC](./images/ML_Roc-kurve.png)
 
 ### Ergebnisse:
 - **Logistic Regression:** AUC = **0.89**  
